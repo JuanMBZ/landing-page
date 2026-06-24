@@ -10,7 +10,6 @@ body {
 .banner,
 .footer {
     background-color: #1F2937;
-    width: 100vw;
 }
 
 .hero,
@@ -22,7 +21,6 @@ body {
     flex-direction: column;
     max-width: 1200px;
     margin: auto;
-    padding: 0px 16px;
 }
 
 .header-logo,
@@ -132,7 +130,6 @@ cite {
 
 .quote-banner {
     background-color: #E5E7EB;
-    width: 100vw;
 }
 
 blockquote {
