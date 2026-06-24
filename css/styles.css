@@ -133,7 +133,7 @@ cite {
 }
 
 blockquote {
-    padding: 128px 15% 0px;
+    padding: 128px 15% 12px;
     font-size: 36px;
     color: #1f2937;
     font-style: italic;
@@ -146,7 +146,7 @@ cite {
     padding: 0px 15% 104px; 
     font-size: 24px;
     font-style: normal;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 .call-container {
