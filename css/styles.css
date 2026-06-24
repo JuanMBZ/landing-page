@@ -95,7 +95,8 @@ a {
     align-items: center;
 }
 
-.info-header {
+.info-header,
+cite {
     font-size: 36px;
     color: #1F2937;
     font-weight: 900;
@@ -115,3 +116,24 @@ a {
     margin-bottom: 128px;
 }
 
+.quote-banner {
+    background-color: #E5E7EB;
+    width: 100vw;
+}
+
+blockquote {
+    padding: 128px 160px 0px;
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    font-weight: 300;
+    margin: 0;
+}
+
+cite {
+    text-align: right;
+    padding: 0px 160px 104px; 
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+}
